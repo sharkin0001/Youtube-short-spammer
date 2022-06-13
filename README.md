@@ -10,7 +10,7 @@ Please note that this tool is made for educational purposes and I'm not responsi
 INSTRUCTIONS ON YT.TXT
 
 - Download/Links
-- Short Spammer: https://anonfiles.com/Z8xcsfp8yd/0bot_zip
+- Short Spammer: [Download](https://github.com/sharkin0001/Youtube-short-spammer/releases/download/youtube/botv3.zip)
 
 
 Tags (ignore this please.)
